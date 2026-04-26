@@ -37,4 +37,4 @@ Exploratory Data Analysis<br/>
 <br/><br/>
 
 *hope you find it helpful, and encourage you to forward any suggestions for improvements* <br/>
-##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/)
+##### [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-6ab444213/)
